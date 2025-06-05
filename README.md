@@ -70,4 +70,10 @@ A aplicação possui as seguintes seções:
 -   Melhorar o design e a responsividade.
 -   Adicionar testes unitários e de integração para o backend.
 
+## Contribuidores
+
+-   Alysson Carlos Camelo Louzeiro      MAT. 202402242636
+-   Arthur Silva Paixão de Oliveira     MAT. 202404151727
+-   kAUÃ Antônio Rodriguês Moura        MAT. 202408700342
+-   Pietro Giovani Oliveira da Silva    MAT. 202001285873
 ---
